@@ -1,0 +1,4 @@
+Handla
+Handla mat.
+true
+städa
